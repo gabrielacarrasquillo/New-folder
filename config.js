@@ -16,7 +16,7 @@ var config = {
             hidden: false,
             title: '',
             image: 'mon.png',
-            description: 'Una mirada cercana a proyectos agrícolas que se identifican como agroecológicos, se encontraron al menos 93 iniciativas campesinas, y 80 de estas indican, en sus redes sociales, el pueblo en dónde se ubican. En su mayoría se encuentran en municipios en zonas montañosas. ',
+            description: 'A close look at agricultural projects that are identified as agroecological, at least 93 peasant initiatives were found, and 80 of these indicate, in their social networks, the town where they are located. They are mostly found in municipalities in mountainous areas.',
             location: {
                 center: [-66.51191, 18.38216],
                 zoom: 8.35,
@@ -78,7 +78,7 @@ var config = {
             hidden: false,
             title: '',
             image: 'centro.jpg',
-            description: '30 fincas agroecológicas especificaron estar ubicadas en pueblos de la región centro.',
+            description: '30 agroecological farms specified to be located in villages in the central region.',
             location: {
                 center: [-66.30314, 18.37376],
                 zoom: 8.44,
@@ -129,7 +129,7 @@ var config = {
             hidden: false,
             title: '',
             image: 'oeste.jpg',
-            description: 'Por su parte, 19 indican estar ubicadas en pueblos de la región oeste del archipiélago.',
+            description: '19 indicate to be located in towns in the western region of the archipelago.',
             location: {
                 center: [-66.30314, 18.37376],
                 zoom: 8.44,
@@ -207,7 +207,7 @@ var config = {
             hidden: false,
             title: '',
             image: 'edu.jpg',
-            description: 'En sus descripciones y mediante el contenido que publican en sus plataformas, 41 iniciativas se identificaron como fincas familiares, 15 como proyectos comunitarios, 10 solo como fincas, tres cooperativas y una organización. Bajo "others" se encuentran también unos nueve proyectos que no especifican.',
+            description: 'In their descriptions and through the content they publish on their platforms, 41 initiatives were identified as family farms, 15 as community projects, 10 only as farms, three cooperatives and one organization. Under "others" there are also about nine projects that do not specify.',
             location: {
                 center: [-66.04154, 18.38091],
                 zoom: 8.05,
