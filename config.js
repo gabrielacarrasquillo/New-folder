@@ -16,7 +16,7 @@ var config = {
             hidden: false,
             title: '',
             image: 'mon.png',
-            description: 'A close look at agricultural projects that are identified as agroecological, at least 93 peasant initiatives were found, and 80 of these indicate, in their social networks, the town where they are located. They are mostly found in municipalities in mountainous areas.',
+            description: 'A close look at agricultural projects that are identified as agroecological in Puerto Rico, at least 93 small farmer initiatives were found, and 80 of these indicate, in their social networks, the town where they are located. They are mostly found in municipalities in mountainous areas.',
             location: {
                 center: [-66.51191, 18.38216],
                 zoom: 8.35,
